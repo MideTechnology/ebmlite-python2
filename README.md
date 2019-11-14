@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/MideTechnology/ebmlite-python2.svg?branch=master)](https://travis-ci.org/MideTechnology/ebmlite-python2)
+
 _ebmlite_ README
 ================
 
